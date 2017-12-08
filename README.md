@@ -12,7 +12,7 @@ __e-Mail__ 69558140@163.com
 
 博客：http://blog.csdn.net/chengcheng1394/
 
-知乎专栏：https://zhuanlan.zhihu.com/DeepLearningSelfDriving
+知乎专栏：https://zhuanlan.zhihu.com/p/31842543
 
 欢迎转发扩散 ^_^
 

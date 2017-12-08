@@ -23,12 +23,12 @@ __e-Mail__ 69558140@163.com
  - Top K准确率
  - 相似度Top K准确率
  - 浮动距离中位数Range K准确率
-![image](https://github.com/chengstone/LotteryPredict/assets/accuracy.png)
+![image](https://raw.githubusercontent.com/chengstone/LotteryPredict/master/assets/accuracy.png)
 
 ## 迭代100次的数据分布图
-![image](https://github.com/chengstone/LotteryPredict/assets/random.png)
+![image](https://raw.githubusercontent.com/chengstone/LotteryPredict/master/assets/random.png)
 
 ## 生成号码的预测曲线
-![image](https://github.com/chengstone/LotteryPredict/assets/prediction.png)
+![image](https://raw.githubusercontent.com/chengstone/LotteryPredict/master/assets/prediction.png)
 
 更多内容请参考代码，Enjoy！

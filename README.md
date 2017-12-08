@@ -26,7 +26,7 @@ __e-Mail__ 69558140@163.com
 ![image](https://raw.githubusercontent.com/chengstone/LotteryPredict/master/assets/accuracy.png)
 
 ## 迭代100次的数据分布图
-![image](https://raw.githubusercontent.com/chengstone/LotteryPredict/master/assets/random.png)
+![image](https://raw.githubusercontent.com/chengstone/LotteryPredict/master/assets/random-512.png)
 
 ## 生成号码的预测曲线
 ![image](https://raw.githubusercontent.com/chengstone/LotteryPredict/master/assets/prediction.png)

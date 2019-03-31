@@ -1,3 +1,4 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 # LotteryPredict
 TensorFlow实战，使用LSTM预测彩票
 
@@ -32,3 +33,6 @@ __e-Mail__ 69558140@163.com
 ![image](https://raw.githubusercontent.com/chengstone/LotteryPredict/master/assets/prediction.png)
 
 更多内容请参考代码，Enjoy！
+
+# 许可
+Licensed under the MIT License with the [`996ICU License`](https://github.com/996icu/996.ICU/blob/master/LICENSE).
